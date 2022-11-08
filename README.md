@@ -1,4 +1,13 @@
-# ProjetoBuzzfeed
+# ProjectBuzzfeed
+
+Projeto sobre uma replica do BuzzFeed, construindo componentes inteligentes e colocando os componentes de forma dinâmica
+Curso da plataforma DIO, do Módulo de Angular.
+### Ferramentas usadas:
+
+* Angular
+* HTML
+* CSS
+* TypeScript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
