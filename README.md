@@ -1,6 +1,6 @@
 # ProjectBuzzfeed
 
-Projeto sobre uma replica do BuzzFeed, construindo componentes inteligentes e colocando os componentes de forma dinâmica
+Projeto sobre uma replica do BuzzFeed, construindo componentes inteligentes e colocando os componentes de forma dinâmica.<br/>
 Curso da plataforma DIO, do Módulo de Angular.
 ### Ferramentas usadas:
 
